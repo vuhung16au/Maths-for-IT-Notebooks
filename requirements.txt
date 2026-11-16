@@ -1,0 +1,11 @@
+# Maths for IT, ML, AI and LLMs — Student Environment Requirements
+# Course: ITSU1012 / ITSU1012R — Mathematics for Information Technology
+
+# Core numerical engine
+numpy>=1.24.0,<3.0.0
+
+# Interactive notebook environment
+jupyter>=1.0.0
+ipykernel>=6.25.0
+nbformat>=5.9.0
+nbclient>=0.8.0
