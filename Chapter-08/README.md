@@ -1,7 +1,7 @@
 # Chapter-08: Matrices and Linear Systems
 
 **Source Textbook Reference:** `08.Maths-for-IT/chapters/09-matrices-and-linear-systems.tex`  
-**Course:** ITSU1012 / ITSU1012R — Maths for IT, ML, AI and LLMs
+**Book:** Maths for IT, ML, AI and LLMs
 
 Implement matrix multiplication from scratch, verify non-commutativity, compute determinants and inverses, and solve linear systems via `np.linalg.solve` and Gaussian elimination.
 

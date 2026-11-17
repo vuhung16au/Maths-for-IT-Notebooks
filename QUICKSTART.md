@@ -59,7 +59,7 @@ If you prefer to work offline or use your local editor, set up a dedicated Pytho
 ### Step 1: Clone or Navigate to the Repository
 Open your terminal (macOS/Linux) or PowerShell/Command Prompt (Windows) and navigate to the student notebook directory:
 ```bash
-cd ITSU1012R/09.Maths-for-IT-Notebooks
+cd 09.Maths-for-IT-Notebooks
 ```
 
 ### Step 2: Create a Dedicated Virtual Environment

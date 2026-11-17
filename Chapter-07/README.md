@@ -1,7 +1,7 @@
 # Chapter-07: Vectors and Coordinates
 
 **Source Textbook Reference:** `08.Maths-for-IT/chapters/08-vectors-and-coordinates.tex`  
-**Course:** ITSU1012 / ITSU1012R — Maths for IT, ML, AI and LLMs
+**Book:** Maths for IT, ML, AI and LLMs
 
 Explore 2D, 3D, and $n$-dimensional vectors, displacement, `atan2` quadrant angles, dot products, orthogonality, and toy word embeddings.
 

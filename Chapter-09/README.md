@@ -1,7 +1,7 @@
 # Chapter-09: Transformations and Computation
 
 **Source Textbook Reference:** `08.Maths-for-IT/chapters/10-transformations-and-computation.tex`  
-**Course:** ITSU1012 / ITSU1012R — Maths for IT, ML, AI and LLMs
+**Book:** Maths for IT, ML, AI and LLMs
 
 Model 2D and 3D linear transformations with matrices, compose homogeneous transforms for graphics pipelines, and verify `np.linalg.solve` solutions via residual norms.
 

@@ -1,7 +1,7 @@
 # Chapter-10: More Linear Algebra
 
 **Source Textbook Reference:** `08.Maths-for-IT/chapters/20-more-linear-algebra.tex`  
-**Course:** ITSU1012 / ITSU1012R — Maths for IT, ML, AI and LLMs
+**Book:** Maths for IT, ML, AI and LLMs
 
 Implement cosine similarity ranking, orthogonal projections, Gram–Schmidt orthonormalisation, rank-based system classification, and least-squares line fitting.
 

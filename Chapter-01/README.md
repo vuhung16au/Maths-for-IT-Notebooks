@@ -1,6 +1,6 @@
 # Chapter 01 — Logic, Sets and Mathematical Reasoning
 
-Interactive Python exercise notebooks accompanying **Chapter 1** (`chapters/01-logic-sets-and-reasoning.tex`) of the *Maths for IT, ML, AI and LLMs* curriculum (ITSU1012R).
+Interactive Python exercise notebooks accompanying **Chapter 1** (`chapters/01-logic-sets-and-reasoning.tex`) of the *Maths for IT, ML, AI and LLMs* curriculum.
 
 ---
 
@@ -33,7 +33,7 @@ Click any **Open in Colab** badge in the table above or at the top of each noteb
 ### Option B: Local Execution via Virtual Environment
 1. Clone or navigate to the repository root:
    ```bash
-   cd ITSU1012R
+   cd <workspace-root>
    ```
 2. Activate your virtual environment and install dependencies:
    ```bash

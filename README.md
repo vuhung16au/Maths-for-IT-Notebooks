@@ -3,9 +3,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vuhung16au/Maths-for-IT-Notebooks/blob/main/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Course: ITSU1012](https://img.shields.io/badge/Course-ITSU1012%20%2F%20ITSU1012R-orange.svg)](https://github.com/vuhung16au/VIT-Notes)
 
-Welcome to the interactive Python exercise repository for **"Maths for IT, ML, AI and LLMs"** (Course code: **ITSU1012 / ITSU1012R**).
+Welcome to the interactive Python exercise repository for **"Maths for IT, ML, AI and LLMs"**.
 
 This platform bridges theoretical mathematical principles with computational practice. Rather than treating mathematics as dry abstraction or Python as mere syntax, each computational lab translates rigorous mathematical theorems, identities, and proofs directly into working, verified, and idiomatic Python algorithms.
 
@@ -137,4 +136,4 @@ Each interactive notebook is engineered around an evidence-based pedagogical tem
 
 ---
 
-*Course developed for ITSU1012 / ITSU1012R: Mathematics for Information Technology.*
+*Interactive Python companion for Maths for IT, ML, AI and LLMs.*

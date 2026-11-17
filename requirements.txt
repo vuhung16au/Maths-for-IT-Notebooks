@@ -1,5 +1,5 @@
 # Maths for IT, ML, AI and LLMs — Student Environment Requirements
-# Course: ITSU1012 / ITSU1012R — Mathematics for Information Technology
+# Maths for IT, ML, AI and LLMs — Python Notebook Dependencies
 
 # Core numerical engine
 numpy>=1.24.0,<3.0.0
